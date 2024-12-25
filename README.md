@@ -1,5 +1,5 @@
 
-# Predicting Bike Demand Using Multiple Linear Regression
+# Predicting Bike Demand Using Linear Regression
 
 ## Objective
 
